@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-App<mvn-one>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "br.raloliver.mvnone.App",
+            "projectName": "mvn-one",
+            "args": ""
+        }
+    ]
+}
